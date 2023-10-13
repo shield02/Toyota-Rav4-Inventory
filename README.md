@@ -1,4 +1,4 @@
-## Python Scrape Toyota RAV-4 Inventory
+## Python Project - Scrape Toyota RAV-4 Inventory
 
 ### Data Extraction - Web Scrapping
 
