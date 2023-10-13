@@ -6,4 +6,3 @@ I am looking to scrape the following website and input the data into a SQLite da
 
 https://www.toyota.com/search-inventory/model/rav4/?zipcode=10019
 
-[Toyota website](https://www.toyota.com/search-inventory/model/rav4/?zipcode=10019)
